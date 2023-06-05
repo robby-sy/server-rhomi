@@ -1,0 +1,1514 @@
+[
+  {
+    "waktu": "2019-01-01 07:00",
+    "suhu": 28.077,
+    "kelembapan": "1.141",
+    "intensitas": "221.633",
+    "daya": 13,
+    "tegangan": 13.702343367306456,
+    "arus": 0.8467579571776663
+  },
+  {
+    "waktu": "2019-01-01 08:00",
+    "suhu": 28.741,
+    "kelembapan": "1.139",
+    "intensitas": "389.842",
+    "daya": 26,
+    "tegangan": 16.211610400044723,
+    "arus": 1.480219645200208
+  },
+  {
+    "waktu": "2019-01-01 09:00",
+    "suhu": 29.335,
+    "kelembapan": "1.138",
+    "intensitas": "550.792",
+    "daya": 37,
+    "tegangan": 16.58089442451652,
+    "arus": 1.7565373838035794
+  },
+  {
+    "waktu": "2019-01-01 10:00",
+    "suhu": 29.774,
+    "kelembapan": "1.136",
+    "intensitas": "647.679",
+    "daya": 44,
+    "tegangan": 17.39491820451828,
+    "arus": 2.3864981070744924
+  },
+  {
+    "waktu": "2019-01-01 11:00",
+    "suhu": 29.986,
+    "kelembapan": "1.135",
+    "intensitas": "709.526",
+    "daya": 48,
+    "tegangan": 17.799063191112527,
+    "arus": 2.3400375117047627
+  },
+  {
+    "waktu": "2019-01-01 12:00",
+    "suhu": 30.043,
+    "kelembapan": "1.133",
+    "intensitas": "715.997",
+    "daya": 48,
+    "tegangan": 16.141117854994917,
+    "arus": 2.5920331097970566
+  },
+  {
+    "waktu": "2019-01-01 13:00",
+    "suhu": 29.968,
+    "kelembapan": "1.133",
+    "intensitas": "672.070",
+    "daya": 45,
+    "tegangan": 16.571879083853982,
+    "arus": 2.537613376271435
+  },
+  {
+    "waktu": "2019-01-01 14:00",
+    "suhu": 29.706,
+    "kelembapan": "1.133",
+    "intensitas": "547.977",
+    "daya": 38,
+    "tegangan": 16.243860240574318,
+    "arus": 2.2151166794162824
+  },
+  {
+    "waktu": "2019-01-01 15:00",
+    "suhu": 29.429,
+    "kelembapan": "1.133",
+    "intensitas": "413.109",
+    "daya": 29,
+    "tegangan": 16.532845799636352,
+    "arus": 1.3670808320958483
+  },
+  {
+    "waktu": "2019-01-01 16:00",
+    "suhu": 29.107,
+    "kelembapan": "1.134",
+    "intensitas": "247.849",
+    "daya": 17,
+    "tegangan": 16.745001309066673,
+    "arus": 0.9689962764381507
+  },
+  {
+    "waktu": "2019-01-01 17:00",
+    "suhu": 28.667,
+    "kelembapan": "1.136",
+    "intensitas": "81.603",
+    "daya": 5,
+    "tegangan": 16.95962755229572,
+    "arus": 0.2020980135041247
+  },
+  {
+    "waktu": "2019-01-01 18:00",
+    "suhu": 28.28,
+    "kelembapan": "1.137",
+    "intensitas": "2.360",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-01 19:00",
+    "suhu": 28.118,
+    "kelembapan": "1.138",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-01 20:00",
+    "suhu": 28.028,
+    "kelembapan": "1.139",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-01 21:00",
+    "suhu": 27.9,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-01 22:00",
+    "suhu": 27.779,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-01 23:00",
+    "suhu": 27.668,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 00:00",
+    "suhu": 27.574,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 01:00",
+    "suhu": 27.436,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 02:00",
+    "suhu": 27.297,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 03:00",
+    "suhu": 27.201,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 04:00",
+    "suhu": 27.105,
+    "kelembapan": "1.141",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 05:00",
+    "suhu": 27.034,
+    "kelembapan": "1.142",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 06:00",
+    "suhu": 27.235,
+    "kelembapan": "1.143",
+    "intensitas": "36.078",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 07:00",
+    "suhu": 27.874,
+    "kelembapan": "1.142",
+    "intensitas": "173.587",
+    "daya": 11,
+    "tegangan": 13.275486422857252,
+    "arus": 0.5946242844944979
+  },
+  {
+    "waktu": "2019-01-02 08:00",
+    "suhu": 28.442,
+    "kelembapan": "1.141",
+    "intensitas": "335.198",
+    "daya": 23,
+    "tegangan": 16.398129502615923,
+    "arus": 0.9098511582546456
+  },
+  {
+    "waktu": "2019-01-02 09:00",
+    "suhu": 28.972,
+    "kelembapan": "1.139",
+    "intensitas": "502.538",
+    "daya": 35,
+    "tegangan": 16.616459014102812,
+    "arus": 1.7011253258701422
+  },
+  {
+    "waktu": "2019-01-02 10:00",
+    "suhu": 29.414,
+    "kelembapan": "1.138",
+    "intensitas": "630.545",
+    "daya": 43,
+    "tegangan": 17.190732286535898,
+    "arus": 2.1013882014035232
+  },
+  {
+    "waktu": "2019-01-02 11:00",
+    "suhu": 29.639,
+    "kelembapan": "1.136",
+    "intensitas": "712.418",
+    "daya": 48,
+    "tegangan": 17.744505436399336,
+    "arus": 2.3955991561070267
+  },
+  {
+    "waktu": "2019-01-02 12:00",
+    "suhu": 29.712,
+    "kelembapan": "1.135",
+    "intensitas": "746.832",
+    "daya": 50,
+    "tegangan": 16.67227036365523,
+    "arus": 2.6494911663067615
+  },
+  {
+    "waktu": "2019-01-02 13:00",
+    "suhu": 29.711,
+    "kelembapan": "1.134",
+    "intensitas": "723.141",
+    "daya": 48,
+    "tegangan": 16.38595014631208,
+    "arus": 2.7148875305286353
+  },
+  {
+    "waktu": "2019-01-02 14:00",
+    "suhu": 29.64,
+    "kelembapan": "1.134",
+    "intensitas": "644.238",
+    "daya": 42,
+    "tegangan": 16.387649467327428,
+    "arus": 2.162385732920018
+  },
+  {
+    "waktu": "2019-01-02 15:00",
+    "suhu": 29.446,
+    "kelembapan": "1.134",
+    "intensitas": "505.272",
+    "daya": 32,
+    "tegangan": 16.199242188212928,
+    "arus": 1.7092168099522687
+  },
+  {
+    "waktu": "2019-01-02 16:00",
+    "suhu": 29.08,
+    "kelembapan": "1.136",
+    "intensitas": "302.817",
+    "daya": 19,
+    "tegangan": 16.255870816661908,
+    "arus": 1.151082869103511
+  },
+  {
+    "waktu": "2019-01-02 17:00",
+    "suhu": 28.558,
+    "kelembapan": "1.137",
+    "intensitas": "106.376",
+    "daya": 6,
+    "tegangan": 16.105564990818497,
+    "arus": -0.028863885266001477
+  },
+  {
+    "waktu": "2019-01-02 18:00",
+    "suhu": 27.906,
+    "kelembapan": "1.139",
+    "intensitas": "3.393",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 19:00",
+    "suhu": 27.644,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 20:00",
+    "suhu": 27.478,
+    "kelembapan": "1.141",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 21:00",
+    "suhu": 27.337,
+    "kelembapan": "1.142",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 22:00",
+    "suhu": 27.204,
+    "kelembapan": "1.142",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-02 23:00",
+    "suhu": 27.087,
+    "kelembapan": "1.141",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 00:00",
+    "suhu": 26.981,
+    "kelembapan": "1.141",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 01:00",
+    "suhu": 26.931,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 02:00",
+    "suhu": 26.962,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 03:00",
+    "suhu": 27.053,
+    "kelembapan": "1.139",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 04:00",
+    "suhu": 27.122,
+    "kelembapan": "1.139",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 05:00",
+    "suhu": 27.236,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 06:00",
+    "suhu": 27.493,
+    "kelembapan": "1.140",
+    "intensitas": "25.893",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 07:00",
+    "suhu": 28.085,
+    "kelembapan": "1.140",
+    "intensitas": "114.947",
+    "daya": 8,
+    "tegangan": 13.002110461721669,
+    "arus": 0.22924171392926618
+  },
+  {
+    "waktu": "2019-01-03 08:00",
+    "suhu": 28.523,
+    "kelembapan": "1.140",
+    "intensitas": "242.326",
+    "daya": 18,
+    "tegangan": 16.350155188029973,
+    "arus": 0.8345285743395665
+  },
+  {
+    "waktu": "2019-01-03 09:00",
+    "suhu": 28.898,
+    "kelembapan": "1.139",
+    "intensitas": "403.471",
+    "daya": 29,
+    "tegangan": 16.807001247694302,
+    "arus": 1.5485073504361675
+  },
+  {
+    "waktu": "2019-01-03 10:00",
+    "suhu": 29.303,
+    "kelembapan": "1.138",
+    "intensitas": "563.413",
+    "daya": 40,
+    "tegangan": 17.551254403347926,
+    "arus": 1.869979379649703
+  },
+  {
+    "waktu": "2019-01-03 11:00",
+    "suhu": 29.622,
+    "kelembapan": "1.136",
+    "intensitas": "654.649",
+    "daya": 46,
+    "tegangan": 17.1499125333791,
+    "arus": 2.4507312706765627
+  },
+  {
+    "waktu": "2019-01-03 12:00",
+    "suhu": 29.805,
+    "kelembapan": "1.135",
+    "intensitas": "697.052",
+    "daya": 48,
+    "tegangan": 16.129862719144068,
+    "arus": 2.6015268128067284
+  },
+  {
+    "waktu": "2019-01-03 13:00",
+    "suhu": 29.832,
+    "kelembapan": "1.134",
+    "intensitas": "671.925",
+    "daya": 46,
+    "tegangan": 16.170639480098963,
+    "arus": 2.6691202661514475
+  },
+  {
+    "waktu": "2019-01-03 14:00",
+    "suhu": 29.724,
+    "kelembapan": "1.134",
+    "intensitas": "588.778",
+    "daya": 40,
+    "tegangan": 16.638530232581804,
+    "arus": 2.0263843813050397
+  },
+  {
+    "waktu": "2019-01-03 15:00",
+    "suhu": 29.48,
+    "kelembapan": "1.134",
+    "intensitas": "450.509",
+    "daya": 30,
+    "tegangan": 16.5495821156536,
+    "arus": 1.4949012924311342
+  },
+  {
+    "waktu": "2019-01-03 16:00",
+    "suhu": 29.112,
+    "kelembapan": "1.135",
+    "intensitas": "278.079",
+    "daya": 18,
+    "tegangan": 16.012290260374368,
+    "arus": 0.7202585644786665
+  },
+  {
+    "waktu": "2019-01-03 17:00",
+    "suhu": 28.617,
+    "kelembapan": "1.137",
+    "intensitas": "97.300",
+    "daya": 6,
+    "tegangan": 16.47428152124174,
+    "arus": 0.026843286045668047
+  },
+  {
+    "waktu": "2019-01-03 18:00",
+    "suhu": 28.044,
+    "kelembapan": "1.139",
+    "intensitas": "2.995",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 19:00",
+    "suhu": 27.798,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 20:00",
+    "suhu": 27.672,
+    "kelembapan": "1.141",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 21:00",
+    "suhu": 27.57,
+    "kelembapan": "1.141",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 22:00",
+    "suhu": 27.485,
+    "kelembapan": "1.141",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-03 23:00",
+    "suhu": 27.38,
+    "kelembapan": "1.141",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 00:00",
+    "suhu": 27.28,
+    "kelembapan": "1.141",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 01:00",
+    "suhu": 27.182,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 02:00",
+    "suhu": 27.101,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 03:00",
+    "suhu": 27.034,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 04:00",
+    "suhu": 26.97,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 05:00",
+    "suhu": 26.933,
+    "kelembapan": "1.141",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 06:00",
+    "suhu": 27.222,
+    "kelembapan": "1.142",
+    "intensitas": "48.721",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 07:00",
+    "suhu": 27.97,
+    "kelembapan": "1.142",
+    "intensitas": "219.761",
+    "daya": 13,
+    "tegangan": 13.966020600225006,
+    "arus": 0.6393377200846204
+  },
+  {
+    "waktu": "2019-01-04 08:00",
+    "suhu": 28.506,
+    "kelembapan": "1.141",
+    "intensitas": "437.094",
+    "daya": 26,
+    "tegangan": 16.95143062709289,
+    "arus": 1.1379291418170396
+  },
+  {
+    "waktu": "2019-01-04 09:00",
+    "suhu": 29.315,
+    "kelembapan": "1.139",
+    "intensitas": "668.493",
+    "daya": 39,
+    "tegangan": 16.36664431024525,
+    "arus": 2.2150987145048116
+  },
+  {
+    "waktu": "2019-01-04 10:00",
+    "suhu": 29.964,
+    "kelembapan": "1.137",
+    "intensitas": "838.873",
+    "daya": 49,
+    "tegangan": 17.885413994371337,
+    "arus": 2.6302742260569314
+  },
+  {
+    "waktu": "2019-01-04 11:00",
+    "suhu": 30.382,
+    "kelembapan": "1.135",
+    "intensitas": "927.162",
+    "daya": 54,
+    "tegangan": 17.163493508213637,
+    "arus": 2.6987943571697475
+  },
+  {
+    "waktu": "2019-01-04 12:00",
+    "suhu": 30.613,
+    "kelembapan": "1.133",
+    "intensitas": "954.013",
+    "daya": 55,
+    "tegangan": 16.065374357834216,
+    "arus": 3.2173217958019857
+  },
+  {
+    "waktu": "2019-01-04 13:00",
+    "suhu": 30.646,
+    "kelembapan": "1.132",
+    "intensitas": "899.931",
+    "daya": 52,
+    "tegangan": 16.15399543859873,
+    "arus": 3.1427514380628487
+  },
+  {
+    "waktu": "2019-01-04 14:00",
+    "suhu": 30.544,
+    "kelembapan": "1.131",
+    "intensitas": "781.556",
+    "daya": 45,
+    "tegangan": 16.99837327001519,
+    "arus": 2.4454923822845664
+  },
+  {
+    "waktu": "2019-01-04 15:00",
+    "suhu": 30.289,
+    "kelembapan": "1.131",
+    "intensitas": "599.480",
+    "daya": 33,
+    "tegangan": 16.748273748582694,
+    "arus": 1.6127109524928702
+  },
+  {
+    "waktu": "2019-01-04 16:00",
+    "suhu": 29.914,
+    "kelembapan": "1.132",
+    "intensitas": "374.548",
+    "daya": 19,
+    "tegangan": 16.035651923016097,
+    "arus": 1.104050034496459
+  },
+  {
+    "waktu": "2019-01-04 17:00",
+    "suhu": 29.333,
+    "kelembapan": "1.133",
+    "intensitas": "132.941",
+    "daya": 6,
+    "tegangan": 16.831181759349143,
+    "arus": -0.14312844206500452
+  },
+  {
+    "waktu": "2019-01-04 18:00",
+    "suhu": 28.579,
+    "kelembapan": "1.135",
+    "intensitas": "4.213",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 19:00",
+    "suhu": 28.254,
+    "kelembapan": "1.137",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 20:00",
+    "suhu": 28.129,
+    "kelembapan": "1.138",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 21:00",
+    "suhu": 27.997,
+    "kelembapan": "1.138",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 22:00",
+    "suhu": 27.847,
+    "kelembapan": "1.138",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-04 23:00",
+    "suhu": 27.678,
+    "kelembapan": "1.139",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 00:00",
+    "suhu": 27.521,
+    "kelembapan": "1.138",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 01:00",
+    "suhu": 27.39,
+    "kelembapan": "1.138",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 02:00",
+    "suhu": 27.301,
+    "kelembapan": "1.138",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 03:00",
+    "suhu": 27.22,
+    "kelembapan": "1.139",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 04:00",
+    "suhu": 27.144,
+    "kelembapan": "1.139",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 05:00",
+    "suhu": 27.093,
+    "kelembapan": "1.140",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 06:00",
+    "suhu": 27.318,
+    "kelembapan": "1.140",
+    "intensitas": "62.670",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 07:00",
+    "suhu": 28.299,
+    "kelembapan": "1.140",
+    "intensitas": "270.013",
+    "daya": 13,
+    "tegangan": 13.036740915099088,
+    "arus": 0.8726538222905247
+  },
+  {
+    "waktu": "2019-01-05 08:00",
+    "suhu": 29.161,
+    "kelembapan": "1.138",
+    "intensitas": "519.649",
+    "daya": 27,
+    "tegangan": 16.638913939317742,
+    "arus": 1.458929909976192
+  },
+  {
+    "waktu": "2019-01-05 09:00",
+    "suhu": 30.051,
+    "kelembapan": "1.135",
+    "intensitas": "745.446",
+    "daya": 41,
+    "tegangan": 16.736422932154497,
+    "arus": 2.155751717987634
+  },
+  {
+    "waktu": "2019-01-05 10:00",
+    "suhu": 30.697,
+    "kelembapan": "1.133",
+    "intensitas": "897.058",
+    "daya": 50,
+    "tegangan": 17.80272220424303,
+    "arus": 2.6851982282014637
+  },
+  {
+    "waktu": "2019-01-05 11:00",
+    "suhu": 31.122,
+    "kelembapan": "1.130",
+    "intensitas": "981.778",
+    "daya": 56,
+    "tegangan": 17.02656042045203,
+    "arus": 2.892347364627293
+  },
+  {
+    "waktu": "2019-01-05 12:00",
+    "suhu": 31.327,
+    "kelembapan": "1.129",
+    "intensitas": "994.434",
+    "daya": 56,
+    "tegangan": 16.744446092888253,
+    "arus": 3.2815159617004976
+  },
+  {
+    "waktu": "2019-01-05 13:00",
+    "suhu": 31.305,
+    "kelembapan": "1.127",
+    "intensitas": "920.962",
+    "daya": 53,
+    "tegangan": 16.914002474093664,
+    "arus": 2.657684479474115
+  },
+  {
+    "waktu": "2019-01-05 14:00",
+    "suhu": 31.088,
+    "kelembapan": "1.127",
+    "intensitas": "784.021",
+    "daya": 45,
+    "tegangan": 16.739844042355948,
+    "arus": 2.280471716499826
+  },
+  {
+    "waktu": "2019-01-05 15:00",
+    "suhu": 30.638,
+    "kelembapan": "1.127",
+    "intensitas": "542.132",
+    "daya": 32,
+    "tegangan": 16.28208054861411,
+    "arus": 1.510174775676417
+  },
+  {
+    "waktu": "2019-01-05 16:00",
+    "suhu": 30.042,
+    "kelembapan": "1.129",
+    "intensitas": "258.016",
+    "daya": 17,
+    "tegangan": 16.521460907658565,
+    "arus": 0.5894582514929153
+  },
+  {
+    "waktu": "2019-01-05 17:00",
+    "suhu": 29.505,
+    "kelembapan": "1.131",
+    "intensitas": "102.193",
+    "daya": 6,
+    "tegangan": 16.14848747965152,
+    "arus": 0.2660095267176497
+  },
+  {
+    "waktu": "2019-01-05 18:00",
+    "suhu": 28.972,
+    "kelembapan": "1.133",
+    "intensitas": "3.219",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 19:00",
+    "suhu": 28.766,
+    "kelembapan": "1.134",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 20:00",
+    "suhu": 28.605,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 21:00",
+    "suhu": 28.406,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 22:00",
+    "suhu": 28.232,
+    "kelembapan": "1.136",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-05 23:00",
+    "suhu": 28.118,
+    "kelembapan": "1.136",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 00:00",
+    "suhu": 27.992,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 01:00",
+    "suhu": 27.873,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 02:00",
+    "suhu": 27.772,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 03:00",
+    "suhu": 27.67,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 04:00",
+    "suhu": 27.595,
+    "kelembapan": "1.136",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 05:00",
+    "suhu": 27.515,
+    "kelembapan": "1.137",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 06:00",
+    "suhu": 27.739,
+    "kelembapan": "1.138",
+    "intensitas": "44.870",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 07:00",
+    "suhu": 28.35,
+    "kelembapan": "1.138",
+    "intensitas": "186.919",
+    "daya": 12,
+    "tegangan": 13.28387872532525,
+    "arus": 0.6649394841706247
+  },
+  {
+    "waktu": "2019-01-06 08:00",
+    "suhu": 28.984,
+    "kelembapan": "1.137",
+    "intensitas": "338.573",
+    "daya": 23,
+    "tegangan": 16.302519857790067,
+    "arus": 1.083642455564028
+  },
+  {
+    "waktu": "2019-01-06 09:00",
+    "suhu": 29.535,
+    "kelembapan": "1.136",
+    "intensitas": "495.974",
+    "daya": 34,
+    "tegangan": 16.557768629973182,
+    "arus": 1.63958763679741
+  },
+  {
+    "waktu": "2019-01-06 10:00",
+    "suhu": 30.153,
+    "kelembapan": "1.133",
+    "intensitas": "648.229",
+    "daya": 43,
+    "tegangan": 17.825700349308494,
+    "arus": 2.1802440793772773
+  },
+  {
+    "waktu": "2019-01-06 11:00",
+    "suhu": 30.675,
+    "kelembapan": "1.131",
+    "intensitas": "741.533",
+    "daya": 49,
+    "tegangan": 17.2478620535031,
+    "arus": 2.495276193657049
+  },
+  {
+    "waktu": "2019-01-06 12:00",
+    "suhu": 30.987,
+    "kelembapan": "1.129",
+    "intensitas": "800.170",
+    "daya": 51,
+    "tegangan": 16.979819829283045,
+    "arus": 2.8277287529339397
+  },
+  {
+    "waktu": "2019-01-06 13:00",
+    "suhu": 31.116,
+    "kelembapan": "1.127",
+    "intensitas": "784.542",
+    "daya": 49,
+    "tegangan": 16.97539786686275,
+    "arus": 2.861612281468834
+  },
+  {
+    "waktu": "2019-01-06 14:00",
+    "suhu": 31.066,
+    "kelembapan": "1.126",
+    "intensitas": "692.259",
+    "daya": 43,
+    "tegangan": 16.386546801552644,
+    "arus": 2.595135996112327
+  },
+  {
+    "waktu": "2019-01-06 15:00",
+    "suhu": 30.819,
+    "kelembapan": "1.126",
+    "intensitas": "532.480",
+    "daya": 33,
+    "tegangan": 16.192631288169842,
+    "arus": 1.6901959215467381
+  },
+  {
+    "waktu": "2019-01-06 16:00",
+    "suhu": 30.324,
+    "kelembapan": "1.127",
+    "intensitas": "305.319",
+    "daya": 19,
+    "tegangan": 16.939214802175776,
+    "arus": 1.095068038974119
+  },
+  {
+    "waktu": "2019-01-06 17:00",
+    "suhu": 29.707,
+    "kelembapan": "1.129",
+    "intensitas": "113.803",
+    "daya": 6,
+    "tegangan": 16.318499287772422,
+    "arus": 0.05865875488061578
+  },
+  {
+    "waktu": "2019-01-06 18:00",
+    "suhu": 29.088,
+    "kelembapan": "1.132",
+    "intensitas": "3.709",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 19:00",
+    "suhu": 28.83,
+    "kelembapan": "1.133",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 20:00",
+    "suhu": 28.688,
+    "kelembapan": "1.134",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 21:00",
+    "suhu": 28.534,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 22:00",
+    "suhu": 28.355,
+    "kelembapan": "1.136",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-06 23:00",
+    "suhu": 28.146,
+    "kelembapan": "1.136",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 00:00",
+    "suhu": 27.942,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 01:00",
+    "suhu": 27.721,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 02:00",
+    "suhu": 27.509,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 03:00",
+    "suhu": 27.344,
+    "kelembapan": "1.136",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 04:00",
+    "suhu": 27.252,
+    "kelembapan": "1.136",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 05:00",
+    "suhu": 27.217,
+    "kelembapan": "1.137",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 06:00",
+    "suhu": 27.55,
+    "kelembapan": "1.137",
+    "intensitas": "49.013",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 07:00",
+    "suhu": 28.382,
+    "kelembapan": "1.137",
+    "intensitas": "209.469",
+    "daya": 13,
+    "tegangan": 13.036109063103316,
+    "arus": 0.6330529551716525
+  },
+  {
+    "waktu": "2019-01-07 08:00",
+    "suhu": 28.951,
+    "kelembapan": "1.137",
+    "intensitas": "365.527",
+    "daya": 25,
+    "tegangan": 16.493539190421544,
+    "arus": 1.3906050441682978
+  },
+  {
+    "waktu": "2019-01-07 09:00",
+    "suhu": 29.485,
+    "kelembapan": "1.135",
+    "intensitas": "491.472",
+    "daya": 34,
+    "tegangan": 16.095602172520913,
+    "arus": 1.7929138685392143
+  },
+  {
+    "waktu": "2019-01-07 10:00",
+    "suhu": 30.2,
+    "kelembapan": "1.132",
+    "intensitas": "596.212",
+    "daya": 42,
+    "tegangan": 17.574189801278294,
+    "arus": 2.100444071903176
+  },
+  {
+    "waktu": "2019-01-07 11:00",
+    "suhu": 30.863,
+    "kelembapan": "1.129",
+    "intensitas": "671.975",
+    "daya": 46,
+    "tegangan": 17.123714816514084,
+    "arus": 2.672705247756811
+  },
+  {
+    "waktu": "2019-01-07 12:00",
+    "suhu": 31.371,
+    "kelembapan": "1.126",
+    "intensitas": "712.835",
+    "daya": 48,
+    "tegangan": 16.379733141700495,
+    "arus": 2.670567573523929
+  },
+  {
+    "waktu": "2019-01-07 13:00",
+    "suhu": 31.311,
+    "kelembapan": "1.125",
+    "intensitas": "592.888",
+    "daya": 42,
+    "tegangan": 16.496877027228848,
+    "arus": 2.0911389068485144
+  },
+  {
+    "waktu": "2019-01-07 14:00",
+    "suhu": 30.783,
+    "kelembapan": "1.125",
+    "intensitas": "403.633",
+    "daya": 30,
+    "tegangan": 16.188040811472714,
+    "arus": 1.768158391460783
+  },
+  {
+    "waktu": "2019-01-07 15:00",
+    "suhu": 30.19,
+    "kelembapan": "1.127",
+    "intensitas": "276.848",
+    "daya": 20,
+    "tegangan": 16.492953705420216,
+    "arus": 0.793627920820073
+  },
+  {
+    "waktu": "2019-01-07 16:00",
+    "suhu": 29.644,
+    "kelembapan": "1.129",
+    "intensitas": "150.195",
+    "daya": 10,
+    "tegangan": 16.44738064438077,
+    "arus": 0.4989928704511881
+  },
+  {
+    "waktu": "2019-01-07 17:00",
+    "suhu": 29.192,
+    "kelembapan": "1.132",
+    "intensitas": "50.230",
+    "daya": 3,
+    "tegangan": 16.272459149811652,
+    "arus": -0.021378865278640025
+  },
+  {
+    "waktu": "2019-01-07 18:00",
+    "suhu": 28.826,
+    "kelembapan": "1.133",
+    "intensitas": "1.676",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 19:00",
+    "suhu": 28.652,
+    "kelembapan": "1.134",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 20:00",
+    "suhu": 28.523,
+    "kelembapan": "1.134",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 21:00",
+    "suhu": 28.464,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 22:00",
+    "suhu": 28.445,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-07 23:00",
+    "suhu": 28.369,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-08 00:00",
+    "suhu": 28.3,
+    "kelembapan": "1.134",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-08 01:00",
+    "suhu": 28.277,
+    "kelembapan": "1.134",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-08 02:00",
+    "suhu": 28.229,
+    "kelembapan": "1.134",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-08 03:00",
+    "suhu": 28.204,
+    "kelembapan": "1.134",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-08 04:00",
+    "suhu": 28.202,
+    "kelembapan": "1.134",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-08 05:00",
+    "suhu": 28.202,
+    "kelembapan": "1.135",
+    "intensitas": "0",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  },
+  {
+    "waktu": "2019-01-08 06:00",
+    "suhu": 28.257,
+    "kelembapan": "1.135",
+    "intensitas": "22.271",
+    "daya": 0,
+    "tegangan": 0,
+    "arus": 0
+  }
+]
