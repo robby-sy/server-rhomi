@@ -3,6 +3,9 @@ const app = express()
 const port = 3000;
 const {Data} = require('./models')
 const { Op } = require("sequelize");
+const cors = require('cors')
+
+app.use(cors())
 
 app.get('/data',async (req,res)=>{
     let options = {}
